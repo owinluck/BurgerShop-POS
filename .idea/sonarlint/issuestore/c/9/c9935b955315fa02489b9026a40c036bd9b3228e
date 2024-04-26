@@ -1,0 +1,78 @@
+
+‡	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$beecdd85-39e7-4a69-afc9-8a822c9e4fb8
+p
+java:S1121¢".Extract the assignment out of this expression.(öÜ¸ïşÿÿÿÿJ$a8caa0c0-5957-4a83-8428-fe338bf84477
+‘	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëö‚İúÿÿÿÿJ$5ad005aa-5bbd-43e3-8c8e-6b29faf7faee
+‘	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëö‚İúÿÿÿÿJ$d9c994c1-c578-4149-8ca8-85cc08bbcd0b
+‘	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¯»…ÿÿÿÿÿJ$f21946cf-34f2-4638-b55a-49e43d9a973f
+Œ	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æëø¥J$26dab9fe-cebf-417c-b83c-7d99ecffb4eb
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö³»J$6ae0bcec-7985-4acb-b45d-ec4c30ac31a9
+	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö³»J$0c3d7346-a323-4fb7-ade6-17fc43d4df7d
+š
+java:S1488\"YImmediately return this expression instead of assigning it to the temporary variable "i".(¶öÀŠúÿÿÿÿJ$2d4b0c8b-8d8b-43de-9b30-1d43723c7e56
+˜
+java:S1488`"\Immediately return this expression instead of assigning it to the temporary variable "data".(Üë“J$fd262bb4-fd1f-42eb-925a-2331455c16c4
+–
+java:S1104"ZMake txtPhoneNumber a static final constant or non-public and provide accessors if needed.(ùÈøŸJ$06a393e6-df07-4484-86a1-564d2fb78477
+
+java:S1104"RMake txtQty a static final constant or non-public and provide accessors if needed.(ÅÈJ$07fdc5e9-645b-45f3-b1df-3caad6c9a62d
+
+java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(ºßÕûJ$d12f3d1a-47ce-4a79-a938-5c331a33a7c2
+Œ
+java:S1104!"PMake list a static final constant or non-public and provide accessors if needed.(º’ÀßJ$a2eeabdb-a6f3-44f7-bbde-0809e048fbc6
+—
+java:S1104""VMake lblOrderId a static final constant or non-public and provide accessors if needed.(¢–ñ¯ıÿÿÿÿJ$7cee34eb-d937-4a47-b995-b35bfbdd35e9
+
+java:S1104#"TMake lblTotal a static final constant or non-public and provide accessors if needed.(ÿêìˆJ$93a9e59e-e161-4e1c-8514-141082bfdcd4
+“
+java:S1104I"WMake burgerPrice a static final constant or non-public and provide accessors if needed.(…”•ÂJ$d78648f2-2111-4bd6-897f-44865dca4e0c
+‹
+java:S1104J"OMake get a static final constant or non-public and provide accessors if needed.(âÃÅJ$b0474263-738a-4950-b4ab-ae96f4b2d43a
+f
+java:S1444!"*Make this "public static list" field final(º’ÀßJ$5b11d591-7cd4-401e-969f-15b0908ade7c
+m
+java:S1444I"1Make this "public static burgerPrice" field final(…”•ÂJ$b83db0c9-406c-44f8-b52b-5c1f9771819c
+e
+java:S1444J")Make this "public static get" field final(âÃÅJ$3e79407b-2a28-49a1-af47-30b5897938a7
+…
+java:S2184ƒ"HCast one of the operands of this multiplication operation to a "double".(Üğ²ÃJ$30fe3ab3-8fa3-4757-bd20-4cdd2c94b784
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°ÎJ$067554b6-9f30-4a98-98cc-2bc65dbcc794
+´
+java:S1845!"xRename field "list" to prevent any misunderstanding/clash with method "list" defined in superclass "java.awt.Component".(º’ÀßJ$d29d5863-2e25-4c35-a71d-eefef1abb7d7
+»
+java:S1845L"Rename method "isvalid" to prevent any misunderstanding/clash with method "isValid" defined in superclass "java.awt.Component".(¦ÉúÍJ$f849a8d4-8c60-470a-9564-3a7663cb157a
+Œ
+java:S1845_"KRename method "get" to prevent any misunderstanding/clash with field "get".(°áÜ¼úÿÿÿÿJ$5ed76186-e6eb-4fac-b352-0f5b8d0ad141
+¾
+java:S1845~"}Rename method "Update" to prevent any misunderstanding/clash with method "update" defined in superclass "java.awt.Component".(üÀ­çÿÿÿÿÿJ$176e1a5d-129f-438b-a60d-89a1105fffdc
+l
+java:S1948"0Make "txtPhoneNumber" transient or serializable.(ùÈøŸJ$ce2c9a2a-d778-4fdd-b2eb-da3d919841d5
+d
+java:S1948"(Make "txtQty" transient or serializable.(ÅÈJ$6c070686-4446-4c4d-b160-da3a5c6440f7
+e
+java:S1948")Make "txtName" transient or serializable.(ºßÕûJ$25990852-3821-4e28-9447-d89e44d4bfbc
+m
+java:S1948"",Make "lblOrderId" transient or serializable.(¢–ñ¯ıÿÿÿÿJ$b08a0cc3-7b70-402e-a985-8c67a062a68d
+f
+java:S1948#"*Make "lblTotal" transient or serializable.(ÿêìˆJ$d2bd23e9-85cb-4bd3-8eb1-667ed1396f09
+Õ
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¯§¡»J$95eca8cc-c326-4375-91eb-a8d153584284
+s
+java:S1172+"2Remove this unused method parameter "actionEvent".(—²ÜğøÿÿÿÿJ$608923e2-8295-41a2-ad44-310eb8452759
+w
+java:S26964"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿJ$9c99a54a-c532-45a1-be5e-20bad6319367
+s
+java:S1172:"2Remove this unused method parameter "actionEvent".(ÆŠÌ¼ùÿÿÿÿJ$ab93bf14-74c8-41be-8979-3cc0ea0bf6aa
+w	java:S125T"<This block of commented-out lines of code should be removed.(¦é J$60ed4a06-14bb-40ff-9215-8b99384dd671
+	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÀ­çÿÿÿÿÿJ$a5dfcf2d-b654-4bc4-9cdc-02b4df4ce114
+w	java:S125y"<This block of commented-out lines of code should be removed.(´ó·¸J$7c0b9370-9183-4628-9a27-310b804ef25a
+	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı€éÃşÿÿÿÿJ$ecdf1b3b-1ae4-4220-bd29-679ffe216a90
+Š	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¬ÄªJ$d257c976-603c-416a-bc74-9a710c846d1f
+n
+java:S1172¦"2Remove this unused method parameter "actionEvent".(ó‚ÉwJ$572d12ca-3641-4ea8-9693-d3e61b5e9e89
+t
+java:S1172±"2Remove this unused method parameter "actionEvent".(†Õ×¨ûÿÿÿÿJ$f53746c7-5908-4809-98e0-e904faec551c
+y
+java:S1128	"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿJ$682d6960-3716-45ab-88bd-d94ad6754995
+‡
+java:S1128"FRemove this unused import 'Controller.SearchOrderFormContoller.index'.(¨ßó˜üÿÿÿÿJ$a1aafecd-e591-4683-b3da-99168fd6277c

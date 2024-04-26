@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="660.0" prefWidth="872.0" style="-fx-background-color: #03AF35;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ViewOrderFormController">
+   <children>
+      <Label alignment="CENTER" layoutX="-2.0" prefHeight="70.0" prefWidth="930.0" style="-fx-background-color: #0316AF;" text="View Orders" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <TableView fx:id="tblPlaceOrder" layoutX="56.0" layoutY="117.0" prefHeight="200.0" prefWidth="302.0">
+        <columns>
+          <TableColumn fx:id="colOrderIdPlaceOrder" prefWidth="75.0" text="Order-ID" />
+          <TableColumn fx:id="colNamePlaceOrder" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="colQtyPlaceOrder" prefWidth="75.0" text="QTY" />
+            <TableColumn fx:id="colTotalPlaceOrder" prefWidth="75.0" text="Total" />
+        </columns>
+      </TableView>
+      <TableView fx:id="tblCancelOrders" layoutX="313.0" layoutY="417.0" prefHeight="200.0" prefWidth="302.0">
+         <columns>
+            <TableColumn fx:id="colOrderIdCancel" prefWidth="75.0" text="Order-ID" />
+            <TableColumn fx:id="colNameCancel" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="colQtyCancel" prefWidth="75.0" text="QTY" />
+            <TableColumn fx:id="colTotalCancel" prefWidth="75.0" text="Total" />
+         </columns>
+      </TableView>
+      <TableView fx:id="tblDeliverOrders" layoutX="558.0" layoutY="117.0" prefHeight="200.0" prefWidth="302.0">
+         <columns>
+            <TableColumn fx:id="colOrderIdDeleverOrder" prefWidth="75.0" text="Order-ID" />
+            <TableColumn fx:id="colNameDeleverOrder" prefWidth="75.0" text="Name" />
+            <TableColumn fx:id="colQtyDeleverOrder" prefWidth="75.0" text="QTY" />
+            <TableColumn fx:id="colTotalDeleverOrder" prefWidth="75.0" text="Total" />
+         </columns>
+      </TableView>
+      <Label alignment="CENTER" layoutX="115.0" layoutY="81.0" prefHeight="18.0" prefWidth="182.0" style="-fx-background-color: #0316AF;" text="Place Orders" textFill="#efefef">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="373.0" layoutY="371.0" prefHeight="18.0" prefWidth="182.0" style="-fx-background-color: #0316AF;" text="Cancel Orders" textFill="#efefef">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="618.0" layoutY="81.0" prefHeight="18.0" prefWidth="182.0" style="-fx-background-color: #0316AF;" text="Delever Orders" textFill="#efefef">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

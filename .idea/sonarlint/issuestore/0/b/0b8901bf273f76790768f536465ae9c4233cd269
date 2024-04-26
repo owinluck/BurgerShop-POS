@@ -1,0 +1,19 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$c39e9bef-25ef-4192-ae8f-167a40c13dd2
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$730f212f-797f-4e1a-8ad0-eeb12e101d72
+†	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$958f15d4-e5d2-4493-9108-73c6ab6dda43
+†	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$020da7aa-d54d-4307-b924-d6a7c43962c3
+	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢ÒËîî1J$9831807a-4000-43c0-b35f-38ea8772dad1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°ÎJ$6d9b5492-0f84-491b-9b7f-347383ff4b50
+½
+java:S11869"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åØû¥J$c80ff8ab-68ce-4f4b-9d27-04538c6d63a5
+s
+java:S1172"2Remove this unused method parameter "actionEvent".(—²ÜğøÿÿÿÿJ$42836053-4796-4996-9c09-c957b5954e89
+n
+java:S1172"2Remove this unused method parameter "actionEvent".(áÄ´üJ$a2f70d19-83d9-4a7d-958e-a6cdabd48c6c
+m
+java:S1172#"2Remove this unused method parameter "actionEvent".(ó‚ÉwJ$df171185-056a-49a8-bf7c-bc0fb7129e2b
+z
+java:S1172."2Remove this unused method parameter "actionEvent".(¿˜å•øÿÿÿÿ8„ÓËîî1J$57e5a31c-45ac-490a-8372-bc94bffbb536
+m
+java:S1172<",Remove this unused method parameter "event".(ÒîŒ£şÿÿÿÿJ$b9f43291-dafc-4a52-a7d5-228379c43d00

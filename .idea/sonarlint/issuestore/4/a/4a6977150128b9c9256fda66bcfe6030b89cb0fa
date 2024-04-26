@@ -1,0 +1,68 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(Í¡áÇùÿÿÿÿ8ù‡½îî1J$9d3e9be2-7760-40e0-bd84-6ed6dd2720c8
+w
+java:S3740"/Provide the parametrized type for this generic.(§³¥òøÿÿÿÿ8ú‡½îî1J$2c29578a-040a-43a4-be59-06c0702f380c
+r
+java:S3740"/Provide the parametrized type for this generic.(¨´Úù8ú‡½îî1J$8b31d6f4-59fa-409a-aa76-d21519ae7d54
+w
+java:S3740"/Provide the parametrized type for this generic.(“¦ïüÿÿÿÿ8ú‡½îî1J$7531d567-21c0-40a5-9931-23915f3e3432
+w
+java:S3740"/Provide the parametrized type for this generic.(Âã·èÿÿÿÿÿ8ú‡½îî1J$dbf4c346-38c2-4aaf-a47f-6e245d82cdb5
+w
+java:S3740"/Provide the parametrized type for this generic.(•â²şúÿÿÿÿ8û‡½îî1J$7a782ad5-8075-42ad-a00a-7e1a1083d8ea
+w
+java:S3740"/Provide the parametrized type for this generic.(¨’ÊÍıÿÿÿÿ8û‡½îî1J$a9fdd941-924c-46b1-8a59-a986c2b2a072
+w
+java:S3740"/Provide the parametrized type for this generic.(º©–íÿÿÿÿÿ8û‡½îî1J$6713058e-4144-4539-9003-f83494226029
+w
+java:S3740"/Provide the parametrized type for this generic.(úÓ„Ñıÿÿÿÿ8û‡½îî1J$7734792b-1258-4938-979a-e4ddb0625125
+r
+java:S3740"/Provide the parametrized type for this generic.(ØĞ²ç8û‡½îî1J$7b3f4597-6fc5-4c0e-8656-f107896d236d
+w
+java:S3740"/Provide the parametrized type for this generic.(¦Ó÷¯úÿÿÿÿ8û‡½îî1J$d771dc58-fd85-4870-ace3-b6eb860fa068
+r
+java:S3740"/Provide the parametrized type for this generic.(«Öáú8û‡½îî1J$1f67816f-fc9a-46d1-b7dc-96793ec95bcb
+w
+java:S3740"/Provide the parametrized type for this generic.(óï‰Éùÿÿÿÿ8û‡½îî1J$554cb535-2ac5-43b0-a850-b53f63df628f
+w
+java:S3740"/Provide the parametrized type for this generic.(°îµµüÿÿÿÿ8û‡½îî1J$f054a7d0-7f26-4344-bd83-ac14f3f0c4cb
+w
+java:S3740"/Provide the parametrized type for this generic.(»’½¨üÿÿÿÿ8û‡½îî1J$d79dd58b-6a8a-495f-8a54-52a3e6ef5e27
+‰
+java:S11929"FDefine a constant instead of duplicating this literal "total" 3 times.(ã‚Ş8Ê†Àîî1J$059cd386-8acf-402e-8e7f-df556348109f
+‘
+java:S11928"IDefine a constant instead of duplicating this literal "quantity" 3 times.(×û¯Æıÿÿÿÿ8Ê†Àîî1J$c16788f2-abd4-4d14-bced-d1894724afa5
+
+java:S11926"HDefine a constant instead of duplicating this literal "orderID" 3 times.(ØŒ¸¯ùÿÿÿÿ8Ë†Àîî1J$c1edb277-0c17-4905-b629-77d29d8d5b71
+¡
+java:S1104"YMake tblPlaceOrder a static final constant or non-public and provide accessors if needed.(Í¡áÇùÿÿÿÿ8ı‡½îî1J$a3f560c3-68f7-4d3f-9aa9-5df698d9497d
+¨
+java:S1104"`Make colOrderIdPlaceOrder a static final constant or non-public and provide accessors if needed.(§³¥òøÿÿÿÿ8ş‡½îî1J$9031d9ff-9897-4b18-830d-4ed9bf2fae4f
+ 
+java:S1104"]Make colNamePlaceOrder a static final constant or non-public and provide accessors if needed.(¨´Úù8ş‡½îî1J$e62c915c-45ee-41ac-a3b8-38db9f0d431c
+¤
+java:S1104"\Make colQtyPlaceOrder a static final constant or non-public and provide accessors if needed.(“¦ïüÿÿÿÿ8ş‡½îî1J$14511124-1dc1-4911-9253-2bb9ed388a86
+¦
+java:S1104"^Make colTotalPlaceOrder a static final constant or non-public and provide accessors if needed.(Âã·èÿÿÿÿÿ8ş‡½îî1J$824c359d-b78a-4732-b069-de14b785141e
+¤
+java:S1104"\Make tblDeliverOrders a static final constant or non-public and provide accessors if needed.(•â²şúÿÿÿÿ8ş‡½îî1J$843d1dd3-df00-42a9-86b6-4727518cb01e
+ª
+java:S1104"bMake colOrderIdDeleverOrder a static final constant or non-public and provide accessors if needed.(¨’ÊÍıÿÿÿÿ8ş‡½îî1J$43772b01-eaa3-4c5b-aa57-875c0c59141b
+§
+java:S1104"_Make colNameDeleverOrder a static final constant or non-public and provide accessors if needed.(º©–íÿÿÿÿÿ8ş‡½îî1J$9671168c-01ba-451c-8f21-160c8e2bce3e
+¦
+java:S1104"^Make colQtyDeleverOrder a static final constant or non-public and provide accessors if needed.(úÓ„Ñıÿÿÿÿ8ş‡½îî1J$08a1c66d-72f7-4264-ac3b-48398c262781
+£
+java:S1104"`Make colTotalDeleverOrder a static final constant or non-public and provide accessors if needed.(ØĞ²ç8ş‡½îî1J$51c813e2-826e-4740-80c6-7ddef3292aa3
+£
+java:S1104"[Make tblCancelOrders a static final constant or non-public and provide accessors if needed.(¦Ó÷¯úÿÿÿÿ8ş‡½îî1J$46a31916-8d0d-45fc-b370-0e372e82ecff
+Ÿ
+java:S1104"\Make colOrderIdCancel a static final constant or non-public and provide accessors if needed.(«Öáú8ş‡½îî1J$af863666-047c-4adf-9310-df79137677d8
+¡
+java:S1104"YMake colNameCancel a static final constant or non-public and provide accessors if needed.(óï‰Éùÿÿÿÿ8ÿ‡½îî1J$17d9f052-edb8-4c50-bc9f-452aa175465e
+ 
+java:S1104"XMake colQtyCancel a static final constant or non-public and provide accessors if needed.(°îµµüÿÿÿÿ8ÿ‡½îî1J$e66c4f3e-316e-409f-9fc0-38c10e5db44f
+¢
+java:S1104"ZMake colTotalCancel a static final constant or non-public and provide accessors if needed.(»’½¨üÿÿÿÿ8ÿ‡½îî1J$a08c1241-5f8b-40dd-b933-9c75fb5423d9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î8ˆ½îî1J$714a9c20-2521-4eaa-9044-fdf01081cd6f

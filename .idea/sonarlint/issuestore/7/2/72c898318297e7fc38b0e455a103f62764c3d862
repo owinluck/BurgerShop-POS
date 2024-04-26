@@ -1,0 +1,23 @@
+
+™
+java:S1104"]Make tblSearchCustomer a static final constant or non-public and provide accessors if needed.(¦¥ÕƒJ$c062d118-2699-4849-93c3-78616014ebcd
+—
+java:S1104"VMake colOrderId a static final constant or non-public and provide accessors if needed.(ŽŠªþøÿÿÿÿJ$94213643-e468-453a-8797-768eb591988b
+Ž
+java:S1104"RMake colQty a static final constant or non-public and provide accessors if needed.(œÉ¹øJ$4ed0a5cc-a0a8-4a84-ad2c-02fd193c0999
+•
+java:S1104"TMake colTotal a static final constant or non-public and provide accessors if needed.(Ñ¡“ƒýÿÿÿÿJ$911a91e3-4c02-4be9-871e-bc51fbd7663e
+•
+java:S1104"YMake txtCustumerId a static final constant or non-public and provide accessors if needed.(ªÔ§îJ$91bd33d8-656f-43d9-be7a-71323370ccdb
+”
+java:S1104"SMake lblName a static final constant or non-public and provide accessors if needed.(½Ï®·ýÿÿÿÿJ$3122c50c-c683-41d2-891c-27869beeee84
+ž
+java:S1104"]Make lblInvalidOrderId a static final constant or non-public and provide accessors if needed.(‹–ˆ‘ÿÿÿÿÿJ$6f276b2e-b1dd-4ad6-b255-5d6d6b27ff20
+”
+java:S1104"SMake colName a static final constant or non-public and provide accessors if needed.(½ý «ûÿÿÿÿJ$8335407e-d598-40b0-9c26-ecde619fc6f6
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°ÎJ$b48f3fc6-dd8a-40df-b806-2a91d6b71e12
+g
+java:S1172",Remove this unused method parameter "event".(Þ™˜%J$5f7a04fb-8c27-4795-8c85-c6dc8e6d6197
+w	java:S1251"<This block of commented-out lines of code should be removed.(ì¦üáJ$74be69a2-68b5-4a3c-b832-8397ef7d721b
+r
+java:S1128"6Remove this unused import 'javafx.fxml.Initializable'.(™ÎùÆJ$23ed7b47-313e-4f73-988d-e502abaa4913

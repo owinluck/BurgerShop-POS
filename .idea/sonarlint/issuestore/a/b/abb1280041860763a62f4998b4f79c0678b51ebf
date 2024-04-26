@@ -1,0 +1,17 @@
+
+r
+java:S1121š".Extract the assignment out of this expression.(­†»½8âå—îî1J$eb3a7663-fa4a-4c5c-83b7-88e290b85389
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒêÏï8åå—îî1J$79621679-d7ad-4724-a13e-c8bbf6b16967
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(‘âéÛùÿÿÿÿ8‡æ—îî1J$706294e6-233b-4a54-abce-d5608bf48a9f
+	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÍ–Ô8•æ—îî1J$3ee57133-da0f-4fb0-bd9b-9abc58fca4c8
+n
+java:S1481["&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8–æ—îî1J$eba409e7-9d9e-4846-bbb9-08bd69237a70
+n
+java:S1481i"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8™æ—îî1J$eec2a858-ed75-486f-8216-67260612697c
+n
+java:S1481w"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8šç±îî1J$4a80588f-e4c8-492d-93b8-2013fe11130c
+o
+java:S1481…"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8â ¿îî1J$62d5b5d5-be61-47b5-8141-afec71c854c3
+‡
+java:S1128"?Remove this unused import 'javafx.collections.ObservableArray'.(Ä‹¸İüÿÿÿÿ8œæ—îî1J$a7cbdf4d-8780-497d-9be3-295faff59f17
